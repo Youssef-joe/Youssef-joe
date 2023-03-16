@@ -1,0 +1,136 @@
+/* Reset Styles */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+/* Global Styles */
+body {
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+	line-height: 1.5;
+	color: #333;
+}
+
+a {
+	color: #fff;
+	text-decoration: none;
+	background-color: #008CBA;
+	padding: 10px 20px;
+	border-radius: 5px;
+}
+
+a:hover {
+	background-color: #005F6B;
+}
+
+ul {
+	list-style-type: none;
+}
+
+header {
+	background-color: #333;
+	color: #fff;
+	padding: 20px;
+}
+
+nav ul li {
+	display: inline-block;
+	margin-right: 20px;
+}
+
+nav ul li:last-child {
+	margin-right: 0;
+}
+
+.hero {
+	height: 500px;
+	background-image: url('hero-bg.jpg');
+	background-size: cover;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+
+.hero h1 {
+	font-size: 48px;
+	margin-bottom: 20px;
+}
+
+.about {
+	padding: 50px;
+}
+
+.gallery {
+	padding: 50px;
+}
+
+.image-grid {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-gap: 20px;
+}
+
+.image-grid img {
+	max-width: 100%;
+}
+
+.contact {
+	padding: 50px;
+}
+
+form label {
+	display: block;
+	margin-bottom: 10px;
+}
+
+form input,
+form textarea {
+	display: block;
+	margin-bottom: 20px;
+	width: 100%;
+	padding: 10px;
+	border-radius: 5px;
+	border: 1px solid #ccc;
+}
+
+form button[type="submit"] {
+	background-color: #008CBA;
+	color: #fff;
+	padding: 10px 20px;
+	border-radius: 5px;
+	border: none;
+	cursor: pointer;
+}
+
+form button[type="submit"]:hover {
+	background-color: #005F6B;
+}
+
+img {
+    width:200px;
+    height:200px;
+    transition-duration: 0.5s;
+}
+
+img:hover {
+    width:300px;
+    height:300px;
+    margin-left:10px;
+}
+
+body {
+    background-color: #EEE;
+	background-image: url(StylePhotos/Main-Photo.jpg);
+	background-repeat: repeat;
+}
+
+nav {
+    margin: 20px auto;
+}
+nav ul {
+    margin: 20px auto;
+}
