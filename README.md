@@ -10,6 +10,10 @@ I'm Node.js Web Developer from Egypt 🇪🇬
 ## 📈 GitHub Stats:
 ![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youssef-joe&show_icons=true&theme=tokyonight)
 
+## Top Languages: 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-joe&layout=compact)
+
+
 ## 🌐 Connect with me:
 - 💼 [LinkedIn]([https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/youssef-ali-7792b21b3/))
 - 🌍 [Portfolio](#)
