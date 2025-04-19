@@ -15,7 +15,7 @@ I'm Node.js Web Developer from Egypt 🇪🇬
 
 
 ## 🌐 Connect with me:
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/youssef-ali-7792b21b3/))
+- 💼 [LinkedIn]([https://www.linkedin.com/in/youssef-ali-7792b21b3/))
 - 🌍 [Portfolio](#)
-- ✉️ Email: youssef@email.com
+- ✉️ Email: youssef.ali9966@gmail.com
 
