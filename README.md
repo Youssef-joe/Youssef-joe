@@ -6,6 +6,7 @@ I'm Web Developer from Egypt 🇪🇬
 - Frontend: React.js, Next.js, Tailwind CSS
 - Backend: Node.js, Express.js, MongoDB, PosgreSQL
 - Tools: Git, GitHub, VS Code, Postman, Docker
+- Languages: Javascript, Typescript, Golang, Java
 
 ## 📈 GitHub Stats:
 ![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youssef-joe&show_icons=true&theme=tokyonight)
