@@ -13,9 +13,6 @@ I'm Web Developer from Egypt 🇪🇬
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Youssef-joe&theme=tokyonight&hide_border=false)
 
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Youssef-joe&theme=tokyo-night)
-
-
 
 ## Top Languages: 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-joe&layout=compact)
