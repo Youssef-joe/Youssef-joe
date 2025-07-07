@@ -9,7 +9,8 @@ I'm Web Developer from Egypt 🇪🇬
 - Languages: Javascript, Typescript, Golang, Java
 
 ## 📈 GitHub Stats:
-![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youssef-joe&show_icons=true&theme=tokyonight)
+![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youssef-joe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=60)
+
 
 ## Top Languages: 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-joe&layout=compact)
