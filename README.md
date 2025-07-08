@@ -1,6 +1,6 @@
 # Hi, I'm Youssef 👋
 
-I'm Web Developer from Egypt 🇪🇬
+Web Developer from Egypt 🇪🇬
 
 ## 🚀 Technologies I use:
 - Frontend: React.js, Next.js, Tailwind CSS
