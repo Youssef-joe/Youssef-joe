@@ -8,8 +8,6 @@ I'm Web Developer from Egypt 🇪🇬
 - Tools: Git, GitHub, VS Code, Postman, Docker
 - Languages: Javascript, Typescript, Golang, Java
 
-## 📈 GitHub Stats:
-![Youssef's GitHub Stats](https://github-readme-stats-ruby-one.vercel.app/api?username=Youssef-joe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Youssef-joe&theme=tokyonight&hide_border=false)
 
