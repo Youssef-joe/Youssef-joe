@@ -17,6 +17,6 @@ Web Developer from Egypt 🇪🇬
 
 
 ## 🌐 Connect with me:
-- 🌍 [Portfolio]([https://www.youssefali.vercel.app])
+- 🌍 [Portfolio](https://www.youssefali.vercel.app)
 - ✉️ Email: youssef.ali9966@gmail.com
 
