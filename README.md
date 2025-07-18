@@ -2,9 +2,9 @@
 
 Web Developer from Egypt 🇪🇬
 
-## 🚀 Technologies I use:
+##  Technologies I use:
 - Frontend: React.js, Next.js, Tailwind CSS
-- Backend: Node.js, Express.js, MongoDB, PosgreSQL
+- Backend: Node.js, Express.js, NestJs, MongoDB, PosgreSQL
 - Tools: Git, GitHub, VS Code, Postman, Docker
 - Languages: Javascript, Typescript, Golang, Java
 
