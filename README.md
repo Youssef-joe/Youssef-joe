@@ -6,7 +6,7 @@ Backend-focused Web Developer from Egypt, passionate about building scalable API
 - **Backend:** Node.js, Express.js, NestJS, FastAPI, MongoDB, PostgreSQL  
 - **Frontend (basic):** React.js, Next.js, Tailwind CSS  
 - **Tools & DevOps:** Docker, Git, GitHub, VS Code, Postman  
-- **Languages:** TypeScript, Go, Java  
+- **Languages:** TypeScript, Go, Java, Python  
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Youssef-joe&theme=tokyonight&hide_border=false)
