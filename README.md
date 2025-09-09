@@ -1,12 +1,12 @@
-# Hi, I'm Youssef 👋
+# Hi, I'm Youssef
 
-Web Developer from Egypt 🇪🇬
+Backend-focused Web Developer from Egypt, passionate about building scalable APIs and reliable server-side systems.
 
-##  Technologies I use:
-- Frontend: React.js, Next.js, Tailwind CSS
-- Backend: Node.js, Express.js, NestJs, MongoDB, PosgreSQL
-- Tools: Git, GitHub, VS Code, Postman, Docker
-- Languages: Javascript, Typescript, Golang, Java
+## Core Skills
+- **Backend:** Node.js, Express.js, NestJS, FastAPI, MongoDB, PostgreSQL  
+- **Frontend (basic):** React.js, Next.js, Tailwind CSS  
+- **Tools & DevOps:** Docker, Git, GitHub, VS Code, Postman  
+- **Languages:** TypeScript, Go, Java  
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Youssef-joe&theme=tokyonight&hide_border=false)
