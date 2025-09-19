@@ -22,9 +22,6 @@ Backend-focused Web Developer from Egypt, passionate about building scalable API
 ![Snake animation](https://github.com/Youssef-joe/Youssef-joe/blob/output/github-contribution-grid-snake.svg)
 
 
-## Top Languages: 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-joe&layout=compact)
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,go,java,python,ts,postgres,mongodb,docker" />
 </p>
