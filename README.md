@@ -15,11 +15,7 @@ Backend-focused Web Developer from Egypt, passionate about building scalable API
 - **Languages:** TypeScript, Go, Java, Python  
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Youssef-joe&theme=tokyonight&hide_border=false)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Youssef-joe&theme=tokyonight)
-
-![Snake animation](https://github.com/Youssef-joe/Youssef-joe/blob/output/github-contribution-grid-snake.svg)
 
 
 <p align="left">
