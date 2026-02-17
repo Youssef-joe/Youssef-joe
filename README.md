@@ -24,10 +24,6 @@ I design and ship production-grade systems — from high-throughput APIs serving
 A high-performance, scalable messaging engine built for low-latency delivery at scale.
 > Elixir · Go · C++
 
-### [DB-Studio](https://github.com/Youssef-joe/DB-Studio) — Universal Database Management Studio
-A pgAdmin alternative that works with any database. Clean UI, powerful internals.
-> React · TypeScript · Hono · Bun · Cloudflare · Vite
-
 ### [Novel-Nest](https://github.com/Youssef-joe/Novel-Nest) — AI-Powered Book Platform
 Book discovery platform with an AI recommendation system, chatbot, and WebRTC video conferencing.
 > Next.js · Express.js · Golang · WebRTC
@@ -35,6 +31,10 @@ Book discovery platform with an AI recommendation system, chatbot, and WebRTC vi
 ### [CheckYoSelf](https://github.com/Youssef-joe/CheckYoSelf) — AI Chess Engine
 An AI-powered chess engine built in TypeScript.
 > TypeScript
+>
+> ### [DB-Studio](https://github.com/Youssef-joe/DB-Studio) — (Contributer) Universal Database Management Studio
+A pgAdmin alternative that works with any database. Clean UI, powerful internals.
+> React · TypeScript · Hono · Bun · Cloudflare · Vite
 
 ---
 
