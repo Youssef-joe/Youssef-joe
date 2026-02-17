@@ -2,7 +2,7 @@
 
 **Full-Stack Engineer** focused on building scalable backend systems, distributed architectures, and AI-powered products. Based in Cairo, building for the world.
 
-Currently leading the **.NET track at GDG Cairo** and open to **relocation opportunities** in Europe and North America.
+Currently leading the **.NET track at GDG Cairo** 
 
 ---
 
