@@ -1,24 +1,24 @@
-# Hey, I'm Youssef Ali 👋
+# Youssef Ali
 
-**Full-Stack Engineer** focused on building scalable backend systems, distributed architectures, and AI-powered products. Based in Cairo 🇪🇬, building for the world.
+**Full-Stack Engineer** focused on building scalable backend systems, distributed architectures, and AI-powered products. Based in Cairo, building for the world.
 
 Currently leading the **.NET track at GDG Cairo** and open to **relocation opportunities** in Europe and North America.
 
 ---
 
-## 🚀 What I Build
+## What I Build
 
 I design and ship production-grade systems — from high-throughput APIs serving 50k+ users to real-time engines and AI-integrated platforms. I care deeply about performance, clean architecture, and developer experience.
 
-- 🏗️ **Backend & APIs** — NestJS, Node.js, Express, FastAPI, .NET, Go
-- ⚡ **Real-time & Distributed** — Elixir, gRPC, WebSockets, microservices
-- 🤖 **AI Integration** — Gemini, recommendation engines, chatbots
-- ☁️ **Cloud & DevOps** — AWS (ECS, RDS, S3), Docker, GitHub Actions, CI/CD
-- 🗄️ **Databases** — PostgreSQL, MongoDB, Drizzle, Prisma
+- **Backend & APIs** — NestJS, Node.js, Express, FastAPI, .NET, Go
+- **Real-time & Distributed** — Elixir, gRPC, WebSockets, microservices
+- **AI Integration** — Gemini, recommendation engines, chatbots
+- **Cloud & DevOps** — AWS (ECS, RDS, S3), Docker, GitHub Actions, CI/CD
+- **Databases** — PostgreSQL, MongoDB, Drizzle, Prisma
 
 ---
 
-## 🔨 Featured Projects
+## Featured Projects
 
 ### [Ayno](https://github.com/Youssef-joe/Ayno) — Real-Time Messaging Engine
 A high-performance, scalable messaging engine built for low-latency delivery at scale.
@@ -38,7 +38,7 @@ An AI-powered chess engine built in TypeScript.
 
 ---
 
-## 💼 Experience Highlights
+## Experience Highlights
 
 - **EnovaWorx (USA)** — Scaled SaaS marketplace MVP to full platform on AWS; integrated AI/ML features; 10k+ MAU, 99.9% uptime
 - **Infotech Global** — Built job board APIs supporting 50k+ listings; cut response times 35%
@@ -46,7 +46,7 @@ An AI-powered chess engine built in TypeScript.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
@@ -65,16 +65,7 @@ An AI-powered chess engine built in TypeScript.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Youssef-joe&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-joe&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
-## 📬 Let's Connect
+## Let's Connect
 
 I'm actively looking for **backend/full-stack engineering roles** with relocation to **Europe or North America**.
 
