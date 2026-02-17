@@ -70,5 +70,5 @@ An AI-powered chess engine built in TypeScript.
 I'm actively looking for **backend/full-stack engineering roles** with relocation to **Europe or North America**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/youssef-ali-7792b21b3)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://youssefali.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://youssef-ali.vercel.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:youssef.ali9966@gmail.com)
