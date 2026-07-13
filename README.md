@@ -32,7 +32,7 @@ Book discovery platform with an AI recommendation system, chatbot, and WebRTC vi
 An AI-powered chess engine built in TypeScript.
 > TypeScript
 >د
- ### [DB-Studio](https://github.com/Youssef-joe/DB-Studio) — (Contributer) Universal Database Management Studio
+ ### [DB-Studio](https://github.com/husamql3/db-studio) — (Contributer) Universal Database Management Studio
 A pgAdmin alternative that works with any database. Clean UI, powerful internals.
 > React · TypeScript · Hono · Bun · Cloudflare · Vite
 
