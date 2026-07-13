@@ -28,9 +28,9 @@ A high-performance, scalable messaging engine built for low-latency delivery at 
 Book discovery platform with an AI recommendation system, chatbot, and WebRTC video conferencing.
 > Next.js · Express.js · Golang · WebRTC
 
-### [CheckYoSelf](https://github.com/Youssef-joe/CheckYoSelf) — AI Chess Engine
-An AI-powered chess engine built in TypeScript.
-> TypeScript
+### [CheckYoSelf](https://github.com/Youssef-joe/os) — Three tiny Operating Systems
+Built Three Tiny Operating Systems (Text-based) For Learning Purposes 
+> C/C++
 >د
  ### [DB-Studio](https://github.com/husamql3/db-studio) — (Contributer) Universal Database Management Studio
 A pgAdmin alternative that works with any database. Clean UI, powerful internals.
