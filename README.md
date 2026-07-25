@@ -1,165 +1,73 @@
-# Youssef Ali
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3500&pause=1200&color=4C8EDA&center=true&vCenter=true&width=750&lines=Backend+%26+Infrastructure+Engineer;Building+AI-Native+Data+Systems;Database+Engineering+%7C+Distributed+Systems;Open+Source+Contributor" />
+</p>
 
-**Backend • Infrastructure • Data Systems Engineer**
+<h1 align="center">Youssef Ali</h1>
 
-I build scalable backend platforms, developer tools, and data-intensive systems with a focus on performance, clean architecture, and great developer experience.
+<p align="center">
+Backend & Infrastructure Engineer building scalable systems, developer tools, and AI-native data platforms.
+</p>
 
-Currently exploring database internals, distributed systems, AI-native infrastructure, and open-source software.
+<p align="center">
+Currently building <strong>YousDB</strong>, an AI-native database engine while exploring PostgreSQL internals, distributed systems, storage engines, and modern data infrastructure.
+</p>
 
-Previously led the **.NET** and **Google Cloud** tracks at **GDG On Campus Cairo**, mentoring students and organizing technical workshops.
-
----
-
-# What I Build
-
-I enjoy solving engineering problems at scale—from high-performance APIs and distributed services to developer tooling and database infrastructure.
-
-My work focuses on building systems that are fast, maintainable, and enjoyable for other engineers to extend.
-
-### Interests
-
-- Backend Engineering
-- Database Systems
-- Distributed Systems
-- AI Infrastructure
-- Developer Tooling
-- Cloud Architecture
+<p align="center">
+Previously led the <strong>.NET</strong> & <strong>Google Cloud</strong> tracks at <strong>GDG On Campus Cairo</strong>.
+</p>
 
 ---
 
-# Current Focus
+## Current Focus
 
-- Building **YousDB**, an experimental database focused on AI-native retrieval and intelligent data access
-- Exploring PostgreSQL & DuckDB internals
-- High-performance backend systems with Go and Elixir
-- Semantic search and vector databases
-- Open Source contributions
+```text
+$ whoami
 
----
+Backend & Infrastructure Engineer
 
-# Featured Projects
-
-## YousDB — AI-Native Database Engine *(Work in Progress)*
-
-An experimental database designed around AI-native data retrieval, intelligent indexing, and modern application workloads.
-
-> Go · PostgreSQL Internals · Vector Search · Storage Engines
-
----
-
-## [Ayno](https://github.com/Youssef-joe/Ayno) — Real-Time Messaging Engine
-
-A high-performance messaging engine built for scalable, low-latency communication.
-
-> Elixir · Go · C++
+Current Focus
+├── YousDB
+├── PostgreSQL Internals
+├── Storage Engines
+├── Distributed Systems
+├── AI-native Databases
+├── Vector Search
+└── Open Source
+```
 
 ---
 
-## [Novel-Nest](https://github.com/Youssef-joe/Novel-Nest) — AI-Powered Book Platform
+## Tech Stack
 
-A social reading platform featuring AI recommendations, conversational search, and WebRTC video conferencing.
-
-> Next.js · Express · Go · WebRTC
-
----
-
-## [CheckYoSelf](https://github.com/Youssef-joe/os) — Tiny Operating Systems
-
-Three educational operating systems built from scratch to explore memory management, scheduling, and low-level programming concepts.
-
-> C · C++
+<p align="center">
+<img src="https://skillicons.dev/icons?i=go,typescript,nodejs,nestjs,postgres,mongodb,redis,python,cpp,cs,elixir,docker,aws,git,linux&perline=8" />
+</p>
 
 ---
 
-## [DB Studio](https://github.com/husamql3/db-studio) — Open Source Contributor
+## GitHub Analytics
 
-Contributed to a universal database management studio designed to work across multiple database engines.
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Youssef-joe&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&hide_title=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-joe&layout=compact&hide_border=true"/>
+</p>
 
-> React · TypeScript · Hono · Bun · Cloudflare
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Youssef-joe&hide_border=true&area=true"/>
+</p>
 
----
-
-# Selected Engineering Experience
-
-### EnovaWorx (USA)
-
-Scaled a SaaS marketplace from MVP to production, integrated AI-powered features, and deployed cloud infrastructure on AWS.
-
-- 10k+ Monthly Active Users
-- 99.9% Uptime
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Youssef-joe&hide_border=true"/>
+</p>
 
 ---
 
-### Infotech Global
+## Connect
 
-Built and optimized backend services powering large-scale recruitment platforms.
-
-- APIs serving 50k+ job listings
-- Reduced API response times by 35%
-
----
-
-### XFede
-
-Led backend development for a real-estate platform.
-
-- Improved API performance by 67%
-- Doubled concurrent request capacity
-
----
-
-# Open Source
-
-I enjoy contributing to projects that improve the developer ecosystem.
-
-Recent contributions include:
-
-- DB Studio
-- Meshery
-- Community-driven developer tools
-
----
-
-# Engineering Principles
-
-- Build for scale, not just for today.
-- Keep architectures simple and maintainable.
-- Measure performance before optimizing.
-- Automate repetitive workflows.
-- Learn by building.
-
----
-
-# Tech Stack
-
-### Languages
-
-TypeScript • Go • Python • Elixir • C++ • C#
-
-### Backend
-
-Node.js • NestJS • Express • FastAPI • .NET
-
-### Databases
-
-PostgreSQL • MongoDB • Prisma • Drizzle
-
-### Infrastructure
-
-Docker • AWS • GitHub Actions • CI/CD
-
-### AI
-
-Gemini • RAG • Embeddings • Vector Search
-
----
-
-# Let's Connect
-
-I'm interested in backend, infrastructure, platform engineering, database systems, and AI engineering opportunities where I can build software that scales and empowers developers.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/youssef-ali-7792b21b3)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://youssef-ali.vercel.app)
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:youssef.ali9966@gmail.com)
+<p align="center">
+<a href="https://linkedin.com/in/youssef-ali-7792b21b3">LinkedIn</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://youssef-ali.vercel.app">Portfolio</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="mailto:youssef.ali9966@gmail.com">Email</a>
+</p>
