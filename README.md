@@ -40,7 +40,7 @@ Current Focus
 ## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=go,typescript,nestjs,postgres,mongodb,redis,python,rust,cpp,cs,c,elixir,docker,git,linux&perline=8" />
+<img src="https://skillicons.dev/icons?i=go,typescript,postgres,python,rust,cpp,c,elixir,docker,linux&perline=8" />
 </p>
 
 ---
