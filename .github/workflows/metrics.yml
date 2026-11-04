@@ -47,3 +47,5 @@ jobs:
 
           filename: github-metrics.svg
           debug: yes
+          repositories: 100
+          repositories_batch: 20
