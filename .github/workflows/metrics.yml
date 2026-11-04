@@ -23,15 +23,6 @@ jobs:
           config_timezone: Africa/Cairo
           config_display: large
 
-          # Languages: skip repos that have vendored virtualenvs committed
-          plugin_languages: yes
-          plugin_languages_sections: most-used
-          plugin_languages_details: percentage
-          plugin_languages_limit: 8
-          plugin_languages_threshold: 1%
-          plugin_languages_ignored: html, css, scss, jupyter notebook, cython, makefile, dockerfile, shell
-          plugin_languages_skipped: saudi_arch_platform, fastAPI-
-
           # Open-source work only (private company repos have 0 stars)
           plugin_notable: yes
           plugin_notable_from: all
@@ -46,5 +37,3 @@ jobs:
           plugin_lines_skipped: saudi_arch_platform, fastAPI-
 
           filename: github-metrics.svg
-          repositories: 30
-          repositories_batch: 30
