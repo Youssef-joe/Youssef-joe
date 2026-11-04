@@ -1,7 +1,7 @@
 <img src="./assets/header.svg" width="100%" alt="Youssef Ali, R & D SWE Engineer" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=4C8EDA&center=true&vCenter=true&width=640&lines=I+build+databases+from+the+page+up;Added+MongoDB+support+to+db-studio;Contributing+to+PostgreSQL+tooling;Shipping+developer+tools+for+AI+agents" alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=4C8EDA&center=true&vCenter=true&width=640&lines=Backend+%26+infrastructure+at+heart;I+build+databases+from+the+page+up;Added+MongoDB+support+to+db-studio;Contributing+to+PostgreSQL+tooling;Shipping+developer+tools+for+AI+agents" alt="Typing intro" />
 </p>
 
 <p align="center">
