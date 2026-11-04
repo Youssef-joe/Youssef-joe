@@ -46,3 +46,4 @@ jobs:
           plugin_lines_skipped: saudi_arch_platform, fastAPI-
 
           filename: github-metrics.svg
+          debug: yes
