@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90" aria-hidden="true">
+  <style>
+    .wave{animation:drift 10s ease-in-out infinite alternate}
+    .wave2{animation:drift 14s ease-in-out infinite alternate-reverse}
+    @keyframes drift{from{transform:translateX(0)}to{transform:translateX(-200px)}}
+  </style>
+  <defs><linearGradient id="w" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2b5c93"/><stop offset="1" stop-color="#4C8EDA"/></linearGradient></defs>
+  <g class="wave2" opacity=".35"><path d="M0 30 C150 0 300 60 450 30 S750 0 900 30 S1200 60 1400 30 V90 H0Z" fill="url(#w)"/></g>
+  <g class="wave"><path d="M0 50 C120 25 260 70 400 50 S680 25 820 50 S1100 70 1400 50 V90 H0Z" fill="url(#w)"/></g>
+</svg>

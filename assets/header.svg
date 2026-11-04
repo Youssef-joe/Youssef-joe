@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="Youssef Ali, Backend and Infrastructure Engineer">
+  <style>
+    .wave{animation:drift 9s ease-in-out infinite alternate}
+    .wave2{animation:drift 13s ease-in-out infinite alternate-reverse}
+    .name{font:800 60px 'Segoe UI',Inter,Helvetica,Arial,sans-serif;fill:#fff;letter-spacing:1px;opacity:0;animation:rise 1.2s .2s ease-out forwards}
+    .desc{font:500 20px 'Segoe UI',Inter,Helvetica,Arial,sans-serif;fill:#cfe0f5;letter-spacing:3px;opacity:0;animation:rise 1.2s .7s ease-out forwards}
+    .dot{animation:blink 2.4s ease-in-out infinite}
+    @keyframes drift{from{transform:translateX(0)}to{transform:translateX(-200px)}}
+    @keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
+    @keyframes blink{0%,100%{opacity:.25}50%{opacity:1}}
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#16324f"/>
+    </linearGradient>
+    <linearGradient id="w" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4C8EDA"/><stop offset="1" stop-color="#2b5c93"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="220" fill="url(#bg)"/>
+  <g class="wave2" opacity=".35">
+    <path d="M0 170 C150 130 300 210 450 170 S750 130 900 170 S1200 210 1400 170 V220 H0Z" fill="url(#w)"/>
+  </g>
+  <g class="wave">
+    <path d="M0 190 C120 160 260 215 400 190 S680 160 820 190 S1100 215 1400 190 V220 H0Z" fill="url(#w)"/>
+  </g>
+  <circle class="dot" cx="1110" cy="46" r="3" fill="#4C8EDA"/>
+  <circle class="dot" cx="1130" cy="46" r="3" fill="#4C8EDA" style="animation-delay:.4s"/>
+  <circle class="dot" cx="1150" cy="46" r="3" fill="#4C8EDA" style="animation-delay:.8s"/>
+  <text class="name" x="600" y="100" text-anchor="middle">Youssef Ali</text>
+  <text class="desc" x="600" y="138" text-anchor="middle">BACKEND &amp; INFRASTRUCTURE ENGINEER</text>
+</svg>

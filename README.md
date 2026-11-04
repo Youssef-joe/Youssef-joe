@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:4C8EDA&height=170&section=header&text=Youssef%20Ali&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Backend%20%26%20Infrastructure%20Engineer&descAlignY=60&descSize=17" width="100%" alt="Youssef Ali" />
+<img src="./assets/header.svg" width="100%" alt="Youssef Ali, Backend & Infrastructure Engineer" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=4C8EDA&center=true&vCenter=true&width=640&lines=I+build+databases+from+the+page+up;Added+MongoDB+support+to+db-studio;Contributing+to+PostgreSQL+tooling;Shipping+developer+tools+for+AI+agents" alt="Typing intro" />
@@ -51,4 +51,4 @@
 
 <sub>Previously led the .NET and Google Cloud tracks at GDG On Campus Cairo · Arabic, English (C1), German (B2)</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C8EDA,100:0d1117&height=90&section=footer&animation=fadeIn" width="100%" alt="" />
+<img src="./assets/footer.svg" width="100%" alt="" />
