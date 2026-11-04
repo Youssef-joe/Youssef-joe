@@ -25,4 +25,13 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_habits: yes
           plugin_habits_charts: yes
+          plugin_habits_facts: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_notable: yes
+          plugin_notable_from: all
+          plugin_notable_repositories: yes
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: B
           filename: github-metrics.svg
