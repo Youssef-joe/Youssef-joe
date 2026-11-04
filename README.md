@@ -38,7 +38,8 @@
 - 💻 Writing code on GitHub since **2018**
 - 🔀 **250+** merged pull requests
 - 🔥 **2,600+** contributions in the past year, most of them in private production repos
-- 🐘 **5** merged PRs across **4** open-source projects, including PostgreSQL's connection pooler, pgagroal
+- 🐘 **10** merged PRs across **6** open-source projects, including MongoDB support in db-studio and fixes in pgagroal
+- ⭐ **32** stars across my own public repositories
 
 </td>
 </tr>
@@ -48,8 +49,18 @@
 
 ### Open source: merged pull requests
 
-| Project | ★ | Merged PR |
+**10 merged PRs in 6 projects with a combined 2,100+ stars.**
+
+| Project | ★ | Merged PRs |
 |---|---|---|
+| [**db-studio**](https://github.com/husamql3/db-studio): open-source GUI for SQL, document and key-value databases | ![](https://img.shields.io/github/stars/husamql3/db-studio?style=flat-square&label=&color=4C8EDA) | [#108](https://github.com/husamql3/db-studio/pull/108) **Added MongoDB support** with CRUD operations and schema management<br/>[#171](https://github.com/husamql3/db-studio/pull/171) DAO consistency fix<br/>[#94](https://github.com/husamql3/db-studio/pull/94) Bulk-insert records from CSV or JSON<br/>[#111](https://github.com/husamql3/db-studio/pull/111) Improved start script |
+| [**pgagroal**](https://github.com/pgagroal/pgagroal): high-performance PostgreSQL connection pool | ![](https://img.shields.io/github/stars/pgagroal/pgagroal?style=flat-square&label=&color=4C8EDA) | [#995](https://github.com/pgagroal/pgagroal/pull/995) macOS: fix build, restore CI runtime verification, drop stale deps<br/>[#969](https://github.com/pgagroal/pgagroal/pull/969) Unit tests for the utils string helpers |
+| [**meshery.io**](https://github.com/meshery/meshery.io): website for the CNCF Meshery project | ![](https://img.shields.io/github/stars/meshery/meshery.io?style=flat-square&label=&color=4C8EDA) | [#2488](https://github.com/meshery/meshery.io/pull/2488) Fixed the getting-started footer link |
+| [**pgexporter**](https://github.com/pgexporter/pgexporter): Prometheus exporter for PostgreSQL | ![](https://img.shields.io/github/stars/pgexporter/pgexporter?style=flat-square&label=&color=4C8EDA) | [#566](https://github.com/pgexporter/pgexporter/pull/566) Utility tests for string and integer appending |
+| [**pgvictoria**](https://github.com/pgvictoria/pgvictoria): PostgreSQL tuning from config and runtime analysis | ![](https://img.shields.io/github/stars/pgvictoria/pgvictoria?style=flat-square&label=&color=4C8EDA) | [#50](https://github.com/pgvictoria/pgvictoria/pull/50) Unit tests for utility functions |
+| [**notspaces**](https://github.com/Ephilipz/notspaces) | ![](https://img.shields.io/github/stars/Ephilipz/notspaces?style=flat-square&label=&color=4C8EDA) | [#1](https://github.com/Ephilipz/notspaces/pull/1) Fixed a memory leak and added rate limiting |
+
+---|---|---|
 | [**pgagroal**](https://github.com/pgagroal/pgagroal): high-performance PostgreSQL connection pool | ![](https://img.shields.io/github/stars/pgagroal/pgagroal?style=flat-square&label=&color=4C8EDA) | [#995](https://github.com/pgagroal/pgagroal/pull/995) macOS: fix build, restore CI runtime verification, drop stale deps |
 | | | [#969](https://github.com/pgagroal/pgagroal/pull/969) Unit tests for the utils string helpers |
 | [**db-studio**](https://github.com/husamql3/db-studio): open-source GUI for SQL, document and key-value databases | ![](https://img.shields.io/github/stars/husamql3/db-studio?style=flat-square&label=&color=4C8EDA) | [#171](https://github.com/husamql3/db-studio/pull/171) Fix DAO consistency (#147) |
