@@ -46,5 +46,5 @@ jobs:
           plugin_lines_skipped: saudi_arch_platform, fastAPI-
 
           filename: github-metrics.svg
-          repositories: 50
-          repositories_batch: 50
+          repositories: 30
+          repositories_batch: 30
