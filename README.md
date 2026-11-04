@@ -5,69 +5,73 @@
 <h1 align="center">Youssef Ali</h1>
 
 <p align="center">
-Backend & Infrastructure Engineer building scalable systems, developer tools, and AI-native data platforms.
+  Backend & Infrastructure Engineer building scalable systems, developer tools, and AI-native data platforms.
 </p>
 
 <p align="center">
-Currently building <strong>YousDB</strong>, an AI-native database engine while exploring PostgreSQL internals, distributed systems, storage engines, and modern data infrastructure.
+  <a href="https://linkedin.com/in/youssef-ali-7792b21b3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://youssef-ali.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:youssef.ali9966@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Youssef-joe&label=Profile+views&color=4C8EDA&style=for-the-badge" />
 </p>
 
-<p align="center">
-Previously led the <strong>.NET</strong> & <strong>Google Cloud</strong> tracks at <strong>GDG On Campus Cairo</strong>.
-</p>
+---
+
+## About
+
+- 🛠️ Currently building **YousDB**, an AI-native database engine
+- 🔬 Exploring PostgreSQL internals, storage engines, distributed systems, and vector search
+- 🎓 Previously led the **.NET** and **Google Cloud** tracks at **GDG On Campus Cairo**
+- 🌍 Languages: Arabic (native), English (C1), German (B2)
 
 ---
 
 ## Current Focus
 
-```text
-$ whoami
+| Area | What I'm working on |
+|---|---|
+| **YousDB** | AI-native database engine |
+| **PostgreSQL internals** | Query planning, storage, extensibility |
+| **Storage engines** | On-disk structures and durability |
+| **Distributed systems** | Replication, consensus, consistency |
+| **Vector search** | Indexing and retrieval for AI workloads |
 
-Backend & Infrastructure Engineer
+---
 
-Current Focus
-├── YousDB
-├── PostgreSQL Internals
-├── Storage Engines
-├── Distributed Systems
-├── AI-native Databases
-├── Vector Search
-└── Open Source
-```
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**SoldierDB**](https://github.com/Youssef-joe/SoldierDB) | Relational database from scratch: crash-safe page store, copy-on-write B+tree, transactions, SQL layer, C ABI for Rust & C++ | Go / Rust / C++ |
+| [**Ayno**](https://github.com/Youssef-joe/Ayno) | Open-source Pusher alternative built for high-performance realtime workloads | Elixir |
+| [**OS**](https://github.com/Youssef-joe/OS) | Operating-system internals, built from the ground up | C |
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=go,typescript,postgres,python,rust,cpp,c,elixir,docker,linux&perline=8" />
+  <img src="https://skillicons.dev/icons?i=go,typescript,postgres,python,rust,cpp,c,elixir,docker,linux&perline=10" />
 </p>
 
 ---
 
-## GitHub Analytics
+## GitHub Insights
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Youssef-joe&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&hide_title=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-joe&layout=compact&hide_border=true"/>
+  <img src="./github-metrics.svg" alt="GitHub metrics" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Youssef-joe&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Youssef-joe&hide_border=true&area=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Youssef-joe&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Youssef-joe&hide_border=true" />
 </p>
 
 ---
 
-## Connect
-
 <p align="center">
-<a href="https://linkedin.com/in/youssef-ali-7792b21b3">LinkedIn</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://youssef-ali.vercel.app">Portfolio</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="mailto:youssef.ali9966@gmail.com">Email</a>
+  <i>Always happy to talk databases, distributed systems, or open source.</i>
 </p>
