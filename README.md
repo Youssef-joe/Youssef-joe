@@ -7,7 +7,7 @@
 <p align="center">
   Cairo, Egypt<br/>
   R&D Software Engineer at <b>ScienceWerx, Inc.</b> & <b>EnovaWorx, Inc.</b> · Co-founder of <b>BricoWerx</b><br/>
-  I work on the layer most people treat as a black box: storage engines, connection pools and the tools between developers and their data.
+  CDD --> Curiosity Driven Developer
 </p>
 
 <p align="center">
