@@ -23,7 +23,7 @@
 - **[bricowerx](https://www.npmjs.com/package/bricowerx)**: feature memory for AI coding agents (CLI and MCP server), from the company I co-founded.
 - **[Ayno](https://github.com/Youssef-joe/Ayno)**: open-source Pusher alternative in Elixir.
 
-### Open source: 10 merged PRs
+### Open source: 11 merged PRs
 
 - **db-studio**: [#108](https://github.com/husamql3/db-studio/pull/108) Added MongoDB support (CRUD and schema management)
 - **db-studio**: [#171](https://github.com/husamql3/db-studio/pull/171) DAO consistency fix
@@ -34,6 +34,7 @@
 - **meshery.io**: [#2488](https://github.com/meshery/meshery.io/pull/2488) Fixed the getting-started footer link
 - **pgexporter**: [#566](https://github.com/pgexporter/pgexporter/pull/566) Unit tests for string and integer appending
 - **pgvictoria**: [#50](https://github.com/pgvictoria/pgvictoria/pull/50) Unit tests for utility functions
+- **pgopr**: [#71](https://github.com/pgopr/pgopr/pull/71) Unit tests for core logic
 - **notspaces**: [#1](https://github.com/Ephilipz/notspaces/pull/1) Fixed a memory leak and added rate limiting
 
 ### Stack
