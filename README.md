@@ -50,7 +50,7 @@
 
 ### Stack
 
-<img src="https://skillicons.dev/icons?i=go,rust,c,cpp,elixir,typescript,python,postgres,docker,linux,gcp&perline=11" alt="Go, Rust, C, C++, Elixir, TypeScript, Python, PostgreSQL, Docker, Linux, GCP" />
+<img src="https://skillicons.dev/icons?i=go,c,cpp,typescript,python,postgres,docker,linux,gcp&perline=11" alt="Go, C, C++, TypeScript, Python, PostgreSQL, Docker, Linux, GCP" />
 
 <p align="center">
   <img src="./github-metrics.svg" alt="GitHub metrics, refreshed daily" />
