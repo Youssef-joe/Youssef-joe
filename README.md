@@ -26,7 +26,7 @@
 - **[Ayno](https://github.com/Youssef-joe/Ayno)**: open-source Pusher alternative in Elixir.
 - **[TADHKIRAH](https://github.com/Youssef-joe/TADHKIRAH)**: Arabic-first self-accountability app. NestJS, Next.js, PostgreSQL.
 
-### Open source: 11 merged PRs
+### Open source: 12 merged PRs
 
 **PostgreSQL tooling (C)**
 - **pgagroal**: [#995](https://github.com/pgagroal/pgagroal/pull/995) Fixed the macOS build and restored CI runtime verification
@@ -40,13 +40,15 @@
 - **db-studio**: [#94](https://github.com/husamql3/db-studio/pull/94) Bulk-insert records from CSV or JSON
 - **db-studio**: [#171](https://github.com/husamql3/db-studio/pull/171) DAO consistency fix
 - **db-studio**: [#111](https://github.com/husamql3/db-studio/pull/111) Improved the start script
+- **metassr**: [#241](https://github.com/metacall/metassr/pull/241) Restored hot reload for API routes in the dev server (Rust)
 - **notspaces**: [#1](https://github.com/Ephilipz/notspaces/pull/1) Fixed a memory leak and added rate limiting
 - **meshery.io**: [#2488](https://github.com/meshery/meshery.io/pull/2488) Fixed the getting-started footer link
 
 **In review**
 - **pgagroal**: [#1100](https://github.com/pgagroal/pgagroal/pull/1100) Discard a transaction-pooled backend that still has an unread response
+- **MariaDB**: [#6153](https://github.com/MariaDB/server/pull/6153) `ST_DISTANCE()` can return NULL but was not marked nullable (MDEV-42267)
 - **MariaDB**: [#6070](https://github.com/MariaDB/server/pull/6070) mariadb-secure-installation: inform about `test_` databases (MDEV-28824)
-- **orangu**: [#338](https://github.com/mnemosyne-systems/orangu/pull/338) Hybrid lexical/semantic search (proof of concept)
+- **orangu**: [#345](https://github.com/mnemosyne-systems/orangu/pull/345), [#346](https://github.com/mnemosyne-systems/orangu/pull/346) Search ranking and shared workspace indexing; [#334](https://github.com/mnemosyne-systems/orangu/pull/334) Batch read-only tool calls
 
 ### Stack
 
